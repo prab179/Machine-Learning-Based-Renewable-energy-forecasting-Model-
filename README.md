@@ -3,14 +3,19 @@ This project predicts power irradiance one month in the future, based on current
 
 # Methods Used
 Machine Learning
+
 Data Visualization
+
 Predictive Modeling
 # Technologies
 Python
+
 Keras
+
 Pandas, jupyter
 # Data
 power_actual
+
 This file contains the solar generation of a certain plant from October 1st, 2017 to September 30th, 2019. You'll find the following columns: 'power', 'gti' and 'ghi'. Power is the actual power generated while GHI (Global Horizontal Irradiance) and GTI (Global Tilt Irradiance) are the parameters relevant to the that define the radiation received from the sun.
 
 # weather_actuals
