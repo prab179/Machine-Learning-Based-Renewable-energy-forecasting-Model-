@@ -1,4 +1,4 @@
-# Short-Term Power Forecasting Using LSTMs and Linear Regression
+# Short-Term Power Forecasting Using LSTMs and  ML Algorithms
 This project predicts power irradiance one month in the future, based on current power irradiance and local weather conditions using an LSTM (long short-term memory) model and Linear Regression.
 
 Methods Used
